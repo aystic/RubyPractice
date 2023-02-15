@@ -1,0 +1,6 @@
+=begin 
+and &&
+or ||
+!
+=end
+
